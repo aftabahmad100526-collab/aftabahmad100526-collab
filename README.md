@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Aftab Ahmad
 
-<!--
-**aftabahmad100526-collab/aftabahmad100526-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 **BS AI Student** | 💻 Learning AI, Python, C++ & Web Development
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Artificial Intelligence & Machine Learning
+- Python & C++
+- Web Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interests
+- AI Agents
+- Real-world AI projects
+- Problem solving
+- Building useful technology
+
+### 🎯 My Goal
+To build useful technology that solves real-world problems and helps people.
+
+---
+
+⭐ Thanks for visiting my profile!
